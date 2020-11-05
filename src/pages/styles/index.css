@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  font-family: "roboto";
+  background-color: #FFFFFF;
+}
+
+.global-padding {
+  padding: 0px 7vw;
+}
+
+.item-padding {
+  padding: 1.5vw;
+}
+
+em {
+  font-style: normal;
+  font-size: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.material-icons {
+  font-size: 2em;
+}
