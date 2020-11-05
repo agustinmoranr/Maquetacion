@@ -6,8 +6,9 @@
   justify-content: space-around;
   padding: 32px 0px;
   box-sizing: border-box;
-  /* border: 1px solid red; */
   font-size: 0.75rem;
+  font-family: "roboto";
+  /* border: 1px solid red; */
 }
 
 .header__container {
@@ -73,4 +74,8 @@
   color: #5349DB;
 
   font-size: 1.5em;
+}
+
+.options-item-reference p {
+  margin: 0.750em 0px;
 }
