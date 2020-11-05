@@ -1,0 +1,27 @@
+.GridSection {
+  margin-bottom: 4em;
+}
+
+.GridSection__title {
+  color: #5349DB;
+  border-bottom: 1px solid #013367;
+  margin-bottom: 2em;
+  font-size: 2em;
+}
+
+.GridSection__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.GridSection__forward a {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: #013367;
+}
+
+.GridSection__forward h2 {
+  margin: 0px;
+}

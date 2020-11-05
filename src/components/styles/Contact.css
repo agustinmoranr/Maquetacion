@@ -1,0 +1,71 @@
+.contact {
+  background-color: #5349DB;
+  color: white;
+  margin: 0px;
+  /* border: 1px solid red; */
+}
+
+.contact__container{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2em;
+  padding-bottom: 4em;
+  /* border: 1px solid red; */
+
+}
+
+.contact__container h1 {
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+.contact__container em {
+  font-size: 1em;
+}
+
+.contact__container--phone{
+  /* border: 1px solid red; */
+
+}
+
+.contact__container--phone-icon {
+  display: flex;
+  align-items: center;
+}
+
+.contact__container--about{
+  /* border: 1px solid red; */
+
+}
+
+.contact__container--about ul {
+  padding: 0px;
+  list-style: none;
+}
+
+.contact__container--about li {
+  margin-bottom: 0.875em;
+}
+
+.contact__container--payments {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  /* border: 1px solid red; */
+}
+.contact__container--payments em {
+  font-size: 0.875em;
+}
+
+.contact__container--payments-icons {
+  display: flex;
+  align-items: center;
+  /* border: 1px solid red; */
+}
+
+.contact__container--payments-icons img {
+  display: block;
+  max-width: 40%;
+  max-height: 60%;
+  /* border: 1px solid red; */
+}

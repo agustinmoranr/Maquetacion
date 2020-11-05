@@ -1,0 +1,53 @@
+.Navbar {
+  max-width: 100%;
+  background-color: #5349DB;
+  color: white;
+  margin: 0px;
+  /* border: 1px solid red; */
+}
+
+.Navbar__container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 1px solid red; */
+
+}
+
+.Navbar__container--options {
+  color: white;
+  font-weight: 600;
+
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+
+  margin-right: 2em;
+  /* border: 1px solid red; */
+
+}
+
+.Navbar__container--offers {
+  /* border: 1px solid red; */
+}
+
+.offers-label {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.750em 3.5em;
+  background-color: #EE6F5E;
+  /* border: 1px solid red; */
+}
+
+.offers-label i {
+  margin-left: 0.5em;
+}
+
+.offers-label-title {
+  margin: 0px;
+  font-size: 0.875em;
+}

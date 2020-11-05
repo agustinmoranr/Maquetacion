@@ -1,0 +1,28 @@
+.Footer {
+  height: 7vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #EE6F5E;
+  color: white;
+}
+
+.Footer em {
+  font-size: 1em;
+}
+
+.Footer__agreements {
+  min-width: 30%;
+  min-height: 30%;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+
+.Footer__agreements a {
+  color: white;
+}
+
+.Footer__agreements a:hover {
+  text-decoration: underline;
+}
