@@ -3,9 +3,9 @@
 }
 
 .GridSection__title {
+  margin-bottom: 2em;
   color: #5349DB;
   border-bottom: 1px solid #013367;
-  margin-bottom: 2em;
   font-size: 2em;
 }
 

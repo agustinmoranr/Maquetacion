@@ -4,11 +4,9 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding: 32px 0px;
+  padding: 2em 0px;
   box-sizing: border-box;
   font-size: 0.75rem;
-  font-family: "roboto";
-  /* border: 1px solid red; */
 }
 
 .header__container {
@@ -16,12 +14,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* border: 1px solid red; */
 }
 
-.header__container--img {
-  /* border: 1px solid red; */
-}
 
 .header__container--search {
   min-width: 20vw;
@@ -31,7 +25,6 @@
   justify-content: space-between;
   border-bottom: 1px solid #5349DB;
   padding: 0.5rem;
-  /* border: 1px solid red; */
 }
 
 .header__container--search input {
@@ -54,15 +47,13 @@
   justify-content: space-between;
   list-style: none;
   padding: 0px;
-  /* border: 1px solid red;  */
 }
 
 .header__container--options-item {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0px 0.5vw;
-  /* border: 1px solid red; */
+  padding: 0px 2em;
 }
 
 .options-item-reference {
@@ -72,7 +63,6 @@
   justify-content: center;
   text-decoration: none;
   color: #5349DB;
-
   font-size: 1.5em;
 }
 

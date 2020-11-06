@@ -26,11 +26,6 @@ const Home = () => {
         <div className="Flier__img">
           <img src={flier} alt="" />
         </div>
-        <div className="Flier__options">
-          <input type="radio" />
-          <input type="radio" />
-          <input type="radio" />
-        </div>
       </aside>
 
       <GridSection title="Nuevos Productos">
